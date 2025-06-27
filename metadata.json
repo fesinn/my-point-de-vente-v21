@@ -1,0 +1,6 @@
+{
+  "name": "POS Pro System",
+  "description": "A Point of Sale application for managing products, cart, and transactions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
