@@ -3,7 +3,7 @@
   "name": "pos-pro-system-webapp",
   "version": "2.0.0",
   "private": true,
-  "description": "A Point of Sale web application built with React, TypeScript, and Firebase.",
+  "description": "A standalone Point of Sale web application built with React and TypeScript.",
   "scripts": {
     "start": "vite",
     "dev": "vite",
